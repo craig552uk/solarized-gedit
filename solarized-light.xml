@@ -78,7 +78,7 @@
     <!-- Others -->
     <style name="def:preprocessor"            foreground="violet"/>
     <style name="def:error"                   foreground="red" background="base2"/>
-    <style name="def:note"                    foreground="blue" background="yellow"/>
+    <style name="def:note"                    foreground="base3" background="blue"/>
     <style name="def:underlined"              italic="true" underline="true"/>
 
 
