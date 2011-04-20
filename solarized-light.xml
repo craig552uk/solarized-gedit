@@ -55,7 +55,7 @@
     <style name="bracket-mismatch"            foreground="red" background="base1"/>
 
     <!-- Search Matching -->
-    <style name="search-match"                foreground="orange" background="base3"/>  
+    <style name="search-match"                foreground="base3" background="yellow"/>  
 
     <!-- Comments -->
     <style name="def:comment"                 foreground="base1"/>
