@@ -6,6 +6,13 @@ Colour Theme by [Ethan Schoonover](http://ethanschoonover.com/solarized)
 
 GEdit Theme created by [Craig Russell](http://www.craig-russell.co.uk)
 
+## Project Abandoned
+
+I'm no longer maintaining this project as I haven't used GEdit as a code editor in several years.
+
+I have received reports that there are some incompatibility issues with later versions of GEdit, your mileage using this may vary.
+
+
 ## Instalation
 
 1.  Copy the xml files to `~/.gnome2/gedit/styles/`
