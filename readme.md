@@ -13,7 +13,7 @@ I'm no longer maintaining this project as I haven't used GEdit as a code editor 
 I have received reports that there are some incompatibility issues with later versions of GEdit, your mileage using this may vary.
 
 
-## Instalation
+## installation
 
 1.  Copy the xml files to `~/.gnome2/gedit/styles/`
 2.  In GEdit: Edit > Preferences > Font & Colors
